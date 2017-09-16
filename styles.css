@@ -1,0 +1,21 @@
+p {
+    margin: 100px;
+    padding: 10px;
+    background-color: black;
+    color: violet;
+}
+body {
+    background-color: lightgreen;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+
+#center {
+    margin-right: auto;
+    margin-left: auto;
+    width: 500px;
+}
